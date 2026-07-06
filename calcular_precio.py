@@ -1,0 +1,12 @@
+print()
+print(" ===== PRECIO FINAL =====")
+print(" AUTOR: PROGRAMADORES CONTI ")
+print()
+#lectura de datos
+PRECIO=float(input("Ingrese precio de venta, en soles: "))
+print()
+#proceso
+if PRECIO>200:
+    PF=round(PRECIO*0.8,1)
+    print(f"El monto a pagar es: {PF} soles\n")
+#fin
