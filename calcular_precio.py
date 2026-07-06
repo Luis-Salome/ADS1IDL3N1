@@ -1,6 +1,6 @@
 print()
 print(" ===== PRECIO FINAL =====")
-print(" AUTOR: PROGRAMADORES CONTI ")
+print(" AUTOR: LUIS SALOME ")
 print()
 #lectura de datos
 PRECIO=float(input("Ingrese precio de venta, en dolares: "))
